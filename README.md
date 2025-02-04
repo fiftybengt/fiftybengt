@@ -9,3 +9,5 @@ Now, my motivation is clear: offensive security. Hacking has always intrigued me
 The key to progress is consistency. I believe in small, daily efforts—drops that eventually form a solid foundation. If I commit to improving every day, who knows where I’ll be in five or ten years? Mastery isn’t built overnight, but with patience and persistence, I can get there. Step by step. Byte by byte.
 
 This repository is a reflection of that journey.
+
+2025-02-04
