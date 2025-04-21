@@ -4,6 +4,7 @@ This GitHub is my commitment to staying in the loop—continuously learning, bui
 I've always wanted to break into IT, but I often find myself exploring different technologies, starting strong, only to hit a wall. Initially, I focused on JavaScript and web development, but I ended up doing more design than actual coding,
 
 Goals and commitments:
+
 / Finish "Practical Ethical Hacking - The Complete Course" (paused)
 
 / 🗂 Build a Knowledge Database – A structured collection of notes, research, and insights on offensive security, hacking techniques, and IT fundamentals.
