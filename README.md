@@ -8,7 +8,8 @@ Goals and commitments:
 / Finish "Practical Ethical Hacking - The Complete Course" (paused)
 
 / 🗂 Build a Knowledge Database – A structured collection of notes, research, and insights on offensive security, hacking techniques, and IT fundamentals.
-This will serve as a personal reference and a way to track progress as I learn. -> https://fiftybengt.github.io/knowledgebase/
+This will serve as a personal reference and a way to track progress as I learn. -> 
+https://fiftybengt.github.io/knowledgebase/
   * should keep this updated for everything tbh (!)
 
 / CS50W: HTML CSS BOOTSTRAP GIT PYTHON DJANGO JAVASCRIPT etc..(goal -a 2026)
